@@ -1,0 +1,17 @@
+#descripcion {
+  background-color: #f1f1f1;
+  padding: 30px 0px 30px 0px;
+  text-align: center;
+  margin-top: 40px;
+  text-size-adjust: 200px;
+}
+
+#next,
+#prev {
+  background-color: #857f7f;
+  height: 20%;
+  text-align: center;
+  top: 40%;
+  width: 10%;
+  border-radius: 20px 20px 20px 20px;
+}
