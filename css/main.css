@@ -21,3 +21,16 @@
   margin: 5px;
   border-color: black;
 }
+
+#contacto {
+  background-color: #f1eeee;
+}
+#contacto h1 {
+  background-color: black;
+  margin: auto;
+  color: white;
+}
+hr {
+  background-color: #f1f1f1;
+  padding: 2px;
+}
